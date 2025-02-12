@@ -100,17 +100,17 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 | S.No | Components | Description | Cost (INR) |
 | :---- | :---- | :---- | :---- |
-| 1 | Venturi Tube | Custom-made for wind tunnel |  |
-| 2 | Pipes | PVC and Copper pipes (various diameters) |  |
-| 3 | Pressure Sensors | MPX5010DP differential pressure sensors |  |
-| 4 | Anemometer | Air velocity measurement device |  |
-| 5 | Raspberry Pi 4 | Data processing and logging system |  |
-| 6 | Smoke Generator | Flow visualization equipment |  |
-| 7 | Mounting Hardware | Tube and pipe fixtures |  |
-| 8 | Software | Python, data logging tools |  |
-| 9 | Miscellaneous | Wiring, fittings, additional supplies |  |
+| 1 | Venturi Tube | Custom-made for wind tunnel |          |
+| 2 | Pipes | PVC and Copper pipes (various diameters) |          |
+| 3 | Pressure Sensors | MPX5010DP differential pressure sensors |          |
+| 4 | Anemometer | Air velocity measurement device |          |
+| 5 | Raspberry Pi 4 | Data processing and logging system |          |
+| 6 | Smoke Generator | Flow visualization equipment |          |
+| 7 | Mounting Hardware | Tube and pipe fixtures |          |
+| 8 | Software | Python, data logging tools |          |
+| 9 | Miscellaneous | Wiring, fittings, additional supplies |          |
 
-**Total Estimated Cost:** XXXX
+**Total Estimated Cost:** 
 
 ## **6\. Funding Justification**
 
@@ -136,8 +136,8 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 * Project Lead: K L Mithunvel  
 * Team Members: Kiran T, Mirfaq M, Kishore Priyan S, Ashwin T E.  
-* Faculty Advisor: \Vin 
-* Technical Support: \[Lab Technician or Support Staff\]
+* Faculty Advisor: Dr.Vinayagamurthy.
+* Technical Support: AUTOVIT Club.
 
 ## **8\. Conclusion**
 
@@ -146,3 +146,5 @@ This project bridges theoretical fluid mechanics and practical applications thro
 We request funding and approval from the college to implement this project, which will enhance the learning experience in fluid dynamics and contribute to the institution's research capabilities.
 
 ## **9\. References**
+
+
