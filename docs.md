@@ -1,7 +1,7 @@
 
 # **Proposal for Experimental Setup: Demonstrating Pipe Friction and Venturi Meter using Wind Tunnel**
 
- **Submitted to:** \[College Name\]  
+ **Submitted to:** \Vellore Institute of Technology Chennai
  **Submitted by:** \[Your Name / Team Name\]  
  **Date:** \[Date of Submission\]  
  **Department:** \[Your Department Name\]
@@ -135,8 +135,8 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 ### **7.2 Project Team**
 
 * Project Lead: K L Mithunvel  
-* Team Members: Kiran T, Mirfaq, Kishore Priyan S, Ashwin T E.  
-* Faculty Advisor: \[Professor's Name\]  
+* Team Members: Kiran T, Mirfaq M, Kishore Priyan S, Ashwin T E.  
+* Faculty Advisor: \Vin 
 * Technical Support: \[Lab Technician or Support Staff\]
 
 ## **8\. Conclusion**
