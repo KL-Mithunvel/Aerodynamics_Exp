@@ -33,9 +33,9 @@ P₁ + ½ρv₁² = P₂ + ½ρv₂²
 
 Where:
 
-* ( P\_1, P\_2 ) \= pressure at different points  
-* ( v\_1, v\_2 ) \= velocities at different points  
-* ( \\rho ) \= fluid density
+* ( P₁,  P₂ ) \= pressure at different points  
+* ( v₁, v₂ ) \= velocities at different points  
+* ( ρ ) \= fluid density
 
 We can calculate the airflow rate in the wind tunnel by measuring pressure differences.
 
