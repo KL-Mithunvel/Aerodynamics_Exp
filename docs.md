@@ -29,7 +29,7 @@ Our project aims to:
 
 A Venturi meter measures the fluid flow rate through a pipe. It incorporates a narrowing section that increases velocity and decreases pressure, as described by Bernoulli's equation:
 
-P₁ + ½ρv₁² = P₂ + ½ρv₂²\
+P₁ + ½ρv₁² = P₂ + ½ρv₂²
 
 Where:
 
