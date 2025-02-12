@@ -119,20 +119,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 * Provides long-term utility for multiple fluid mechanics experiments  
 * Strengthens the institution's research and learning capabilities
 
-## **7\. Implementation Plan**
-
-### **7.1 Project Timeline**
-
-| Phase | Task | Duration |
-| :---- | :---- | :---- |
-| Phase 1 | Design and Procurement |        |
-| Phase 2 | Fabrication and Assembly |        |
-| Phase 3 | Sensor Integration and Testing |        |
-| Phase 4 | Calibration and Data Collection |        |
-| Phase 5 | Analysis and Documentation |        |
-| Total | Project Completion |        |
-
-### **7.2 Project Team**
+## **7\. Project Team**
 
 * Project Lead: K L Mithunvel  
 * Team Members: Kiran T, Mirfaq M, Kishore Priyan S, Ashwin T E.  
