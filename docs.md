@@ -1,7 +1,7 @@
 
 # **Proposal for Experimental Setup: Demonstrating Pipe Friction and Venturi Meter using Wind Tunnel**
 
- **Submitted to:** \Vellore Institute of Technology Chennai
+ **Submitted to:** \Vellore Institute of Technology Chennai\
  **Submitted by:** \[Your Name / Team Name\]  
  **Date:** \[Date of Submission\]  
  **Department:** \[Your Department Name\]
