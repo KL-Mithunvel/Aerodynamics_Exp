@@ -91,22 +91,22 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 * Experimental validation of Bernoulli's Principle through pressure-velocity data comparison  
 * Comprehensive understanding of pipe friction through pressure drop measurements  
-* Enhanced hands-on learning experience for students  
+%* Enhanced hands-on learning experience for students  &
 * Data-driven analysis capabilities using automated measurement systems
 
 ## **5\. Budget Proposal**
 
 ### **5.1 Estimated Costs**
 
-| S.No | Components | Description | Cost (INR) |
+| S.No | Components | Description | Quantity |Cost (INR)|
 | :---- | :---- | :---- | :---- |
-| 1 | Venturi Tube | Custom-made for wind tunnel |          |
-| 2 | Pipes | PVC and Copper pipes (various diameters) |          |
-| 3 | Pressure Sensors | MPX5010DP differential pressure sensors |          |
-| 4 | Raspberry Pi 4 | Data processing and logging system |          |
-| 5 | Mounting Hardware | Tube and pipe fixtures |          |
-| 6 | Software | Python, data logging tools |          |
-| 7 | Miscellaneous | Wiring, fittings, additional supplies |          |
+| 1 | Venturi Tube | Custom-made for wind tunnel |  |  |
+| 2 | Pipes | PVC and Copper pipes (various diameters) |  |         |
+| 3 | Pressure Sensors | MPX5010DP differential pressure sensors |  |  |
+| 4 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,199.00 |
+| 5 | Mounting Hardware | Tube and pipe fixtures |          ||
+| 6 | Software | Python, data logging tools |          ||
+| 7 | Miscellaneous | Wiring, fittings, additional supplies | ||
 
 **Total Estimated Cost:** 
 
