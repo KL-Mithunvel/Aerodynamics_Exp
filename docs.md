@@ -50,11 +50,11 @@ Applications of the Venturi meter include:
 
 Friction in pipes causes energy losses due to fluid-wall interactions, quantified by the Darcy-Weisbach equation:
 
-\[ \\Delta P \= f \\cdot \\frac{L}{D} \\cdot \\frac{\\rho v^2}{2} \]
+ΔP = f⋅(L/D)⋅(ρv²/2)
 
 Where:
 
-* ( \\Delta P ) \= pressure drop due to friction  
+* ( ΔP ) \= pressure drop due to friction  
 * ( f ) \= friction factor  
 * ( L ) \= pipe length  
 * ( D ) \= pipe diameter  
@@ -103,12 +103,10 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 | 1 | Venturi Tube | Custom-made for wind tunnel |          |
 | 2 | Pipes | PVC and Copper pipes (various diameters) |          |
 | 3 | Pressure Sensors | MPX5010DP differential pressure sensors |          |
-| 4 | Anemometer | Air velocity measurement device |          |
-| 5 | Raspberry Pi 4 | Data processing and logging system |          |
-| 6 | Smoke Generator | Flow visualization equipment |          |
-| 7 | Mounting Hardware | Tube and pipe fixtures |          |
-| 8 | Software | Python, data logging tools |          |
-| 9 | Miscellaneous | Wiring, fittings, additional supplies |          |
+| 4 | Raspberry Pi 4 | Data processing and logging system |          |
+| 5 | Mounting Hardware | Tube and pipe fixtures |          |
+| 6 | Software | Python, data logging tools |          |
+| 7 | Miscellaneous | Wiring, fittings, additional supplies |          |
 
 **Total Estimated Cost:** 
 
