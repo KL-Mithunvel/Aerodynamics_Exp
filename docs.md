@@ -99,14 +99,16 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 ### **5.1 Estimated Costs**
 
 | S.No | Components | Description | Quantity |Cost (INR)|
-| :---- | :---- | :---- | :---- |
+| :---- | :---- | :---- | :----| :---- |
 | 1 | Venturi Tube | Custom-made for wind tunnel |  |  |
 | 2 | Pipes | PVC and Copper pipes (various diameters) |  |         |
-| 3 | Pressure Sensors | MPX5010DP differential pressure sensors |  |  |
-| 4 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,199.00 |
-| 5 | Mounting Hardware | Tube and pipe fixtures |          ||
-| 6 | Software | Python, data logging tools |          ||
-| 7 | Miscellaneous | Wiring, fittings, additional supplies | ||
+| 3 | Pressure Sensors | MPX5010DP differential pressure sensors | 3 | 4,800.00 - 6,000.00 |
+| 4 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,599.00|
+| 5 | Arduino Nano | Data Conversion | 1 | 290.00 - 400.00 |
+| 6 | SD card | Data Storage | 1 | 600.00 - 800.00 |
+| 7 | Mounting Hardware | Tube and pipe fixtures |          ||
+| 8 | Software | Python, data logging tools |||
+| 9 | Miscellaneous | Wiring, fittings, additional supplies | ||
 
 **Total Estimated Cost:** 
 
