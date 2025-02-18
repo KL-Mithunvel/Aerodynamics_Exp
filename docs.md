@@ -100,7 +100,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 | S.No | Components | Description | Quantity |Cost (INR)|
 | :---- | :---- | :---- | :----| :---- |
-| 1 | Venturi Tube | Custom-made for wind tunnel |  |  |
+| 1 | Venturi Tube | Custom-made for wind tunnel and Fittings |  | 7,000.00 - 10,000.00 |
 | 2 | Pressure Sensors | MPX5010DP differential pressure sensors | 3 | 4,980.00 - 6,000.00 |
 | 3 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,599.00|
 | 4 | Arduino Nano | Data Conversion | 1 | 290.00 - 400.00 |
@@ -108,7 +108,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 | 6 | Software | Python, data logging tools | 1 | 0.00 |
 | 7 | Miscellaneous | Wiring, fittings, additional supplies | NA | 1000.00 |
 
-**Total Estimated Cost:** 
+**Total Estimated Cost:** 19,469.00 - 24,799.00
 
 ## **6\. Funding Justification**
 
@@ -131,5 +131,6 @@ This project bridges theoretical fluid mechanics and practical applications thro
 We request funding and approval from the college to implement this project, which will enhance the learning experience in fluid dynamics and contribute to the institution's research capabilities.
 
 ## **9\. References**
+
 
 
