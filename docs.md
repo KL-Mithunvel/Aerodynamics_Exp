@@ -129,7 +129,7 @@ This project bridges theoretical fluid mechanics and practical applications thro
 
 We request funding and approval from the college to implement this project, which will enhance the learning experience in fluid dynamics and contribute to the institution's research capabilities.
 
-%* ## **9\. References** *%
+// ## **9\. References** //
 
 
 
