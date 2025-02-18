@@ -102,7 +102,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 | :---- | :---- | :---- | :----| :---- |
 | 1 | Venturi Tube | Custom-made for wind tunnel |  |  |
 | 2 | Pipes | PVC and Copper pipes (various diameters) |  |         |
-| 3 | Pressure Sensors | MPX5010DP differential pressure sensors | 3 | 4,800.00 - 6,000.00 |
+| 3 | Pressure Sensors | MPX5010DP differential pressure sensors | 3 | 4,980.00 - 6,000.00 |
 | 4 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,599.00|
 | 5 | Arduino Nano | Data Conversion | 1 | 290.00 - 400.00 |
 | 6 | SD card | Data Storage | 1 | 600.00 - 800.00 |
