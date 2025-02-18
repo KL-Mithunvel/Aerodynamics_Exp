@@ -96,7 +96,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 ## **5\. Budget Proposal**
 
-### **5.1 Estimated Costs**
+### **Estimated Costs**
 
 | S.No | Components | Description | Quantity |Cost (INR)|
 | :---- | :---- | :---- | :----| :---- |
