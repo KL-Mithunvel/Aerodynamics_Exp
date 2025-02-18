@@ -106,9 +106,9 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 | 4 | Raspberry Pi 4/5 | Data processing and logging system | 1 | 5,599.00 - 6,599.00|
 | 5 | Arduino Nano | Data Conversion | 1 | 290.00 - 400.00 |
 | 6 | SD card | Data Storage | 1 | 600.00 - 800.00 |
-| 7 | Mounting Hardware | Tube and pipe fixtures |          ||
-| 8 | Software | Python, data logging tools |||
-| 9 | Miscellaneous | Wiring, fittings, additional supplies | ||
+| 7 | Mounting Hardware | Tube and pipe fixtures |  ||
+| 8 | Software | Python, data logging tools | 1 | 0.00 |
+| 9 | Miscellaneous | Wiring, fittings, additional supplies |  |  |
 
 **Total Estimated Cost:** 
 
