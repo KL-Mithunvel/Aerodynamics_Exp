@@ -91,7 +91,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 
 * Experimental validation of Bernoulli's Principle through pressure-velocity data comparison  
 * Comprehensive understanding of pipe friction through pressure drop measurements  
-%* Enhanced hands-on learning experience for students  &
+%* Enhanced hands-on learning experience for students%
 * Data-driven analysis capabilities using automated measurement systems
 
 ## **5\. Budget Proposal**
