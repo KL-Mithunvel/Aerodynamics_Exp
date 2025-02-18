@@ -108,7 +108,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 | 6 | SD card | Data Storage | 1 | 600.00 - 800.00 |
 | 7 | Mounting Hardware | Tube and pipe fixtures |  ||
 | 8 | Software | Python, data logging tools | 1 | 0.00 |
-| 9 | Miscellaneous | Wiring, fittings, additional supplies |  |  |
+| 9 | Miscellaneous | Wiring, fittings, additional supplies |  | 1000.00 |
 
 **Total Estimated Cost:** 
 
