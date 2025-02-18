@@ -90,8 +90,7 @@ We will integrate our setup with the existing wind tunnel in the college laborat
 ## **4\. Expected Outcomes**
 
 * Experimental validation of Bernoulli's Principle through pressure-velocity data comparison  
-* Comprehensive understanding of pipe friction through pressure drop measurements  
-%* Enhanced hands-on learning experience for students%
+* Comprehensive understanding of pipe friction through pressure drop measurements 
 * Data-driven analysis capabilities using automated measurement systems
 
 ## **5\. Budget Proposal**
